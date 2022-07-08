@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulbaribinrafiq
 - 👀 I’m interested in Tech News, Preparing for the Future of AI
 - 🌱 I’m currently learning 6G Signal Processing & Combing with Deep Learning & AI 
-- 📫 How to reach me +44 20 3287 3969
+-
 
 In the last 9 years, I did more than 5K Penetration Tests and Security Assessments. Most of them are on Web and Mobile ( Android and iOS ) applications with Finance to Airlines & Défense Background implemented with various technologies and frameworks, server security testing, and hardening. 
 
